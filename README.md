@@ -1,2 +1,2 @@
-# wp-install-vestacp
-Instalador de Wordpress en vestacp
+# Instalador WordPress en VESTACP
+Instalador de Wordpress en vestacp 
