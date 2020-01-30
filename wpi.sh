@@ -16,8 +16,6 @@ dominio="${1}"
 url=${2}
 rutaV="/home/admin/web/${dominio}/public_html/"
 
-[[ $error -ne 0 ]] && apt-get install zip
-
 if [[ -d $rutaV ]];then
     echo "ruta actual: $rutaV"; read
     cd $rutaV; rm -rf *; wget $url
