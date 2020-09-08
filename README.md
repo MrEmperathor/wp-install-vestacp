@@ -3,7 +3,7 @@
 
 ## :heavy_exclamation_mark: Requerimientos
 
-* Un sistema operativo basado en Linux. Recomendamos Ubuntu 16.04
+* Un sistema operativo basado en Linux. Recomendamos Ubuntu 16.04.
 * Cambiar los permisos al archivo wpi.sh (chmod +x wpi.sh)
 
 
